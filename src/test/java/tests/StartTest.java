@@ -14,7 +14,7 @@ import java.time.Duration;
 
 public class StartTest {
 
-    WebDriver driver;                     //тест
+    WebDriver driver;                     //тест2
 
     @BeforeEach
     void setUp() {
